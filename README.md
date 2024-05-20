@@ -1,3 +1,4 @@
+![Banner](https://github.com/Mr-TK/Mr-TK/blob/main/titas.png)
 ### Hi there 👋 I'm Titas Karmakar
 
 I'm a CSE undergraduate student, a developer who loves to create new things, embraces new technologies, and delivers top-quality results. My strong work ethic, passion for learning, and problem-solving skills drive my success in the ever-evolving tech world.
