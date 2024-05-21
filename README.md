@@ -38,7 +38,7 @@ I'm a CSE undergraduate student, a developer who loves to create new things, emb
 **Technologies Used:** Python, Django, Docker
 
 **GitHub Repository:** [Project Link](https://github.com/your-github-username/project-name)
-
+<!---
 ### 2. Project Name
 **Description:** Brief description of the project.
 
@@ -54,7 +54,7 @@ I'm a CSE undergraduate student, a developer who loves to create new things, emb
 ![Titas's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=your-github-username&layout=compact&theme=radical)
-
+--->
 ## 📝 Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
 - [MQTT SERVER](https://acceleratron.in/mqtt-server-blog)
