@@ -30,7 +30,7 @@ I'm a CSE undergraduate student, a developer who loves to create new things, emb
 - [LinkedIn](https://www.linkedin.com/in/titas-karmakar-63150124a/)
 - [GitHub](https://github.com/Mr-TK)
 - [Twitter](https://twitter.com/TitasKarmakar11)
-
+<!---
 ## 🛠️ Projects
 ### 1. Project Name
 **Description:** Brief description of the project.
@@ -38,7 +38,7 @@ I'm a CSE undergraduate student, a developer who loves to create new things, emb
 **Technologies Used:** Python, Django, Docker
 
 **GitHub Repository:** [Project Link](https://github.com/your-github-username/project-name)
-<!---
+
 ### 2. Project Name
 **Description:** Brief description of the project.
 
